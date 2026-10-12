@@ -1,0 +1,37 @@
+# Macallan Inc
+
+> Macallan Inc is a Wyoming holding company. Our businesses: AccessSmith (website ADA accessibility services) and Chinese astrology (readings, I Ching cards, and a free open library of 2,064 classical texts).
+
+Macallan Inc is a privately held company registered in Sheridan, Wyoming, USA. We run a small portfolio of businesses — each one useful, each one honest. AccessSmith is a service of Macallan Inc.
+
+This website (macallaninc.com) is a single page with three sections: Businesses, About, and Contact.
+
+## Businesses
+
+- [AccessSmith](https://accesssmith.com): Website accessibility (ADA / WCAG 2.1) for US small businesses — audits, remediation, and ongoing monitoring. AccessSmith is a service of Macallan Inc. Contact: hi@accesssmith.com
+- [AstrologyLib.com](https://astrologylib.com): Classical Chinese astrology, done by humans — personal BaZi readings and NFC-enabled I Ching card decks, no AI-generated horoscopes.
+- [AstrologyLib.org](https://astrologylib.org): A free, open-access, non-profit library of 2,064 classical Chinese texts — the Yijing canon and the Daoist canon — with volunteer translations in progress. No paywall, no donations, just the texts.
+
+## AccessSmith pricing (as listed on macallaninc.com)
+
+- $249 — one-time in-depth accessibility audit with a detailed report
+- $29/mo · $79/quarter · $290/yr — ongoing monitoring that alerts you before small issues become legal risk
+- Remediation projects for WordPress, Shopify, and custom sites
+
+## Other pricing
+
+- Personal BaZi reading — $39.99 on Etsy
+- NFC I Ching cards — tap a card, read the hexagram (Kickstarter coming soon)
+
+## Site structure
+
+- [Macallan Inc — home](https://macallaninc.com/): The whole site is this one page.
+- [Our businesses](https://macallaninc.com/#businesses): AccessSmith, BaZi readings & I Ching cards, and the Astrology Library.
+- [About Macallan Inc](https://macallaninc.com/#about): Who we are and how we work.
+- [Contact](https://macallaninc.com/#contact): How to reach us.
+
+## Contact
+
+- Macallan Inc: info@macallaninc.com
+- AccessSmith (accessibility services): hi@accesssmith.com
+- Location: Sheridan, WY, USA
